@@ -113,3 +113,5 @@ td:first-child{color:var(--acc);white-space:nowrap;padding-right:14px}
 @media(max-width:480px){.legend li{grid-template-columns:1fr;gap:2px}.top nav a:nth-child(n+3){display:none}}
 @media(prefers-reduced-motion:no-preference){.band::before{animation:draw 1.1s cubic-bezier(.16,1,.3,1) both}@keyframes draw{from{transform:scaleX(0)}to{transform:scaleX(1)}}}
 @media print{body{background:#fff;color:#000}.top{display:none}}
+
+.wm img{display:block;height:auto;max-width:100%}.wm{line-height:0}
