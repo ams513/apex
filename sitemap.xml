@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://starkforall.com/apex/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>https://starkforall.com/apex/</loc><xhtml:link rel="alternate" hreflang="en" href="https://starkforall.com/apex/"/><xhtml:link rel="alternate" hreflang="es" href="https://starkforall.com/apex/es/"/></url>
+<url><loc>https://starkforall.com/apex/es/</loc><xhtml:link rel="alternate" hreflang="en" href="https://starkforall.com/apex/"/><xhtml:link rel="alternate" hreflang="es" href="https://starkforall.com/apex/es/"/></url>
 </urlset>
